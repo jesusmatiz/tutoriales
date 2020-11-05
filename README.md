@@ -8,7 +8,7 @@ ___
 _En esta serie de videos aprenderas a implementar jwt spring boot security para proteger tus servicios api restful._
 
 * [Curso completo aquí](https://www.youtube.com/watch?v=dZy4YJiA3WQ&list=PLRHPC9shBXl2xqm21wdeAMHVrVuHjkhcv)
-* [Git ](https://github.com/jesusmatiz/Spring-Boot-Security-con-JWT)
+* [Git ](https://github.com/jesusmatiz/001.-Spring-Boot-Security-con-JWT)
 
 
 ___
